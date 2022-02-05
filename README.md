@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rauba-code
-- 👀 I’m interested in algorithms, computer vision, computer graphics, HPC, hardware acceleration, Linux & low-level programming.
+- 👀 I’m interested in algorithms, computer vision, computer graphics, HPC, hardware acceleration, Linux & systems programming.
 - 🌱 I’m currently learning in  Kaunas University of Technology.
 - 💞️ I’m looking to collaborate!
 
