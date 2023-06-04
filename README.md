@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning in Kaunas University of Technology.
 - 💞️ I’m looking to collaborate! 
 
-Social:
-- Github (IT things go there): [rauba-code](https://github.com/rauba-code)
-- Linkedin (official things go there): [rauba-code](https://linkedin.com/in/rauba-code)
+Note: I do not use Github frequently. My new projects are on my Codeberg account: [`raubarno`](https://codeberg.org/raubarno).
+
+Links:
+- Linkedin: [rauba-code](https://linkedin.com/in/rauba-code)
 - Matrix (message me there): [@rauba-code:matrix.org](https://matrix.to/#/@rauba-code:matrix.org)
 
